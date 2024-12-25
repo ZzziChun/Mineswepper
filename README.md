@@ -1,4 +1,4 @@
-![8fd76bd1-67e6-48da-af5c-bf5ecc4b7da2](https://github.com/user-attachments/assets/cad6e212-31fe-463a-b6dc-6497ec448cb8)# Minesweeper
+# Minesweeper
 
 ## 專案資訊
 - **班別**: A  
