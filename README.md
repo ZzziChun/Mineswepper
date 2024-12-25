@@ -1,4 +1,4 @@
-# Minesweeper
+![8fd76bd1-67e6-48da-af5c-bf5ecc4b7da2](https://github.com/user-attachments/assets/cad6e212-31fe-463a-b6dc-6497ec448cb8)# Minesweeper
 
 ## 專案資訊
 - **班別**: A  
@@ -55,4 +55,11 @@
 - **綠色**: 已開啟且周圍無地雷  
 - **閃爍狀態**: 玩家目前所在位置  
 
+---
+
+## 遊玩圖片
+- **勝利時**:
+  ![image](https://github.com/user-attachments/assets/083b4bee-9816-472f-b642-36244a99cb57)
+- **失敗時**:
+- 
 ---
