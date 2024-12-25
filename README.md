@@ -59,9 +59,12 @@
 
 ## 遊玩圖片
 - **勝利時**:
-- ![image](https://github.com/user-attachments/assets/083b4bee-9816-472f-b642-36244a99cb57)
+  
+  ![image](https://github.com/user-attachments/assets/083b4bee-9816-472f-b642-36244a99cb57)
+  
   (圖中的藍色為未開啟區域, 但demo後被更改為紅色了)
 - **失敗時**:
-- ![image](https://github.com/user-attachments/assets/cc8d2656-6b5b-4a29-9599-a98d8323ab3f)
-
+  
+   ![image](https://github.com/user-attachments/assets/cc8d2656-6b5b-4a29-9599-a98d8323ab3f)
+  
 ---
